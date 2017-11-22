@@ -38,5 +38,7 @@ Amanda Howanice https://github.com/howana/Code-Poetry.git
 
 Arielle Cerini https://github.com/acerini/Learning_Python/blob/master/Poetic_Interpreter.py
 
+Curtis Falkingham https://github.com/soundforascene/CodePoetry-Day-Night
+
 ----
 Lareb Pirzada https://github.com/lp625/Code_Poetry-
