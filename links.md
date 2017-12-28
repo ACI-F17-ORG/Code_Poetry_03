@@ -30,7 +30,7 @@ Uyen Uong		https://github.com/uyenuong/ACI_Assignment3
 
 Maddie Kettler  https://github.com/maddiekettler/crisisControl.git
 
-Andrew Aquino   https://github.com/dawneraq/liberation
+Andrew Aquino   https://codepen.io/dawneraq/pen/rpeQbM
 
 Omer Osman https://github.com/omerosman/osmano_codepoetry
 
